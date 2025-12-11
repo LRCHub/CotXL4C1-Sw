@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "God Is",
+  "base_artist": "Kanye West",
+  "createdAt": "2025-12-11T14:04:16.765581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "God Is Calling Me Back Home",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_God_Is_Calling_Me_Back_Home_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "God Is Calling Me Back Home",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_God_Is_Calling_Me_Back_Home_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "God Is in the Rhythm",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_God_Is_in_the_Rhythm_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "God Is in the Rhythm",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_God_Is_in_the_Rhythm_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "God Is a Woman (Yours Truly: 2018)",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/05_God_Is_a_Woman_(Yours_Truly__2018)_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "God Is a Music",
+      "artist": "Beginner",
+      "has_synced": true,
+      "path": "select/06_God_Is_a_Music_Beginner.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "God Is Love",
+      "artist": "Marvin Gaye",
+      "has_synced": true,
+      "path": "select/07_God_Is_Love_Marvin_Gaye.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "God Is Love",
+      "artist": "Marvin Gaye",
+      "has_synced": false,
+      "path": "select/08_God_Is_Love_Marvin_Gaye.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "God Is Dead?",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/09_God_Is_Dead_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "God is a woman",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/10_God_is_a_woman_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My God Is Blue",
+      "artist": "Sébastien Tellier",
+      "has_synced": true,
+      "path": "select/11_My_God_Is_Blue_Sébastien_Tellier.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "God Is Good",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/12_God_Is_Good_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "God Is A Girl - Original",
+      "artist": "Groove Coverage",
+      "has_synced": true,
+      "path": "select/13_God_Is_A_Girl_-_Original_Groove_Coverage.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "God Is A Girl",
+      "artist": "Groove Coverage",
+      "has_synced": true,
+      "path": "select/14_God_Is_A_Girl_Groove_Coverage.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "God Is a Girl (Album Version)",
+      "artist": "Groove Coverage",
+      "has_synced": false,
+      "path": "select/15_God_Is_a_Girl_(Album_Version)_Groove_Coverage.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "God Is A Girl (Axel Konrad Remix)",
+      "artist": "Groove Coverage",
+      "has_synced": false,
+      "path": "select/16_God_Is_A_Girl_(Axel_Konrad_Remix)_Groove_Coverage.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "God Is A Girl - Extended Version",
+      "artist": "Groove Coverage",
+      "has_synced": false,
+      "path": "select/17_God_Is_A_Girl_-_Extended_Version_Groove_Coverage.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "God Is A Girl - Radio Edit",
+      "artist": "Groove Coverage",
+      "has_synced": true,
+      "path": "select/18_God_Is_A_Girl_-_Radio_Edit_Groove_Coverage.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "God Is A Girl (Rocco Remix)",
+      "artist": "Groove Coverage",
+      "has_synced": true,
+      "path": "select/19_God_Is_A_Girl_(Rocco_Remix)_Groove_Coverage.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "God Is",
+      "artist": "Kanye West",
+      "has_synced": false,
+      "path": "select/pl_01_God_Is_Kanye_West.txt"
+    }
+  ]
+}
